@@ -1,5 +1,4 @@
-# apnacollege-demo1
-this is my first repository
-<br>
-author ; karthik
-this is my sample repo for aws
+a=10
+b=3
+c=a+b
+print(c)
